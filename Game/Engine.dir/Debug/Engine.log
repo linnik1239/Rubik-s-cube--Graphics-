@@ -1,0 +1,13 @@
+﻿  Camera.cpp
+  MovableGLM.cpp
+  scene.cpp
+d:\someelseengine\engineforcgcourse-master-3\engine3d\Material.h(8): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\someelseengine\engineforcgcourse-master-3\engine3d\Material.h(8): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+D:\someElseEngine\EngineForCGcourse-master-3\Engine3D\scene.cpp(101): warning C4018: '<': signed/unsigned mismatch
+D:\someElseEngine\EngineForCGcourse-master-3\Engine3D\scene.cpp(244): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Engine3D\scene.cpp(245): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Engine3D\scene.cpp(246): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Engine3D\scene.cpp(247): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  shape.cpp
+  Generating Code...
+  Engine.vcxproj -> D:\someElseEngine\EngineForCGcourse-master-3\Game\Debug\Engine.lib

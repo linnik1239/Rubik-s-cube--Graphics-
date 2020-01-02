@@ -1,0 +1,46 @@
+﻿  game.cpp
+d:\someelseengine\engineforcgcourse-master-3\engine3d\Material.h(8): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\someelseengine\engineforcgcourse-master-3\engine3d\Material.h(8): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+d:\someelseengine\engineforcgcourse-master-3\game\game.h(120): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(103): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(104): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(138): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(159): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(183): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(197): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(200): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(230): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(243): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(253): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(266): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\someElseEngine\EngineForCGcourse-master-3\Game\game.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+d:\someelseengine\engineforcgcourse-master-3\engine3d\Material.h(8): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  d:\someelseengine\engineforcgcourse-master-3\engine3d\Material.h(8): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+d:\someelseengine\engineforcgcourse-master-3\game\game.h(120): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(95): warning C4101: 'arr': unreferenced local variable
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(109): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(110): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(146): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(156): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\someelseengine\engineforcgcourse-master-3\game\InputManager.h(167): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Game.vcxproj -> D:\someElseEngine\EngineForCGcourse-master-3\Game\Debug\Game.exe
